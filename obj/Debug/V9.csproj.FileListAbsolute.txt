@@ -1,0 +1,24 @@
+C:\Users\WASD\Desktop\V9\bin\Debug\V9.exe.config
+C:\Users\WASD\Desktop\V9\bin\Debug\V9.exe
+C:\Users\WASD\Desktop\V9\bin\Debug\V9.pdb
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.csprojAssemblyReference.cache
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.Ex1Form.resources
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.MainForm.resources
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.Properties.Resources.resources
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.csproj.GenerateResource.cache
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.csproj.CoreCompileInputs.cache
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.exe
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.pdb
+C:\Users\WASD\Desktop\V9\obj\Debug\V9.Ex2Form.resources
+G:\программирование программных модулей\pr1\Var9\bin\Debug\V9.exe.config
+G:\программирование программных модулей\pr1\Var9\bin\Debug\V9.exe
+G:\программирование программных модулей\pr1\Var9\bin\Debug\V9.pdb
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.csproj.AssemblyReference.cache
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.Ex1Form.resources
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.Ex2Form.resources
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.MainForm.resources
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.Properties.Resources.resources
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.csproj.GenerateResource.cache
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.csproj.CoreCompileInputs.cache
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.exe
+G:\программирование программных модулей\pr1\Var9\obj\Debug\V9.pdb
